@@ -1,17 +1,17 @@
 {
-    "token": "MTA2ODkyODIwOTc5NTY5MDU0Ng.G4yhxj.C_d6wrSqSzXJNKXDRQmVMJP0iQVYITJisCrmek",
-    "prefix": "!",
-    "sahip": "" ,
+    "token": "MTA3MjU5MzE3Mzk2MjA1MTcwNQ.GFxLeZ.CpvtU8YtJBjPIqtjzM8rJQCUHzZYEGnvvHHB_g",
+    "prefix": ".",
+    "sahip": "721725341537927229" ,
     "aktiviteyazi": "Brave Studios - Kayıt Botu",
     "aktivitetur": "LISTENING",
     "durum": "dnd",
 
-    "SunucuID": "",
-    "HosgeldinKanalID":"",
-    "KayitSorumlusuRolID":"",
-    "KayitsizRolID":"",
-    "ErkekRolID":"",
-    "KizRolID":"",
-    "KayitliUyeRolID":"",
-    "LogKanalID": ""
+    "SunucuID": "1011768161781153892",
+    "HosgeldinKanalID":"1071804150867841166",
+    "KayitSorumlusuRolID":"1071804084845297734",
+    "KayitsizRolID":"1071804105238007868",
+    "ErkekRolID":"1071804101475713126",
+    "KizRolID":"1071804100297097276",
+    "KayitliUyeRolID":"1071804102562041926",
+    "LogKanalID": "1071804221898379325"
 }
